@@ -401,3 +401,6 @@ def combat(player, enemy):
             break
 
 combat(warrior, zombie)
+
+print("Yo anyone who sees this Has 3 dollars to get from me . so Text me about it")
+
